@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = 'This CocoaPod provides a customizable UIViewController than can be used to show the tutorial screen in any application.'
 
-  s.homepage         = 'https://github.com/kumarpramod017@gmail.com/PKTutorialViewController'
+  s.homepage         = 'https://github.com/kumarpramod017/PKTutorialViewController'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'kumarpramod017@gmail.com' => 'kumarpramod017@gmail.com' }
