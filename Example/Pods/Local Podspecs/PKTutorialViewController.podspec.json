@@ -1,0 +1,22 @@
+{
+  "name": "PKTutorialViewController",
+  "version": "0.1.0",
+  "summary": "A short description of PKTutorialViewController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pramod.kumar@appinventiv.com/PKTutorialViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pramod.kumar@appinventiv.com": "pramod.kumar@appinventiv.com"
+  },
+  "source": {
+    "git": "https://github.com/pramod.kumar@appinventiv.com/PKTutorialViewController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PKTutorialViewController/Classes/**/*"
+}

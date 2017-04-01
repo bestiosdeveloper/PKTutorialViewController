@@ -1,0 +1,16 @@
+PODS:
+  - PKTutorialViewController (0.1.0)
+
+DEPENDENCIES:
+  - PKTutorialViewController (from `../`)
+
+EXTERNAL SOURCES:
+  PKTutorialViewController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PKTutorialViewController: 76597ac1953604daf645ede319db960a963f7175
+
+PODFILE CHECKSUM: 5d0c37306b292c5fb1af7b37e5665db1ea84fd2d
+
+COCOAPODS: 1.2.0

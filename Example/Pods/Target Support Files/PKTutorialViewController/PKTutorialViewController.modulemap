@@ -1,0 +1,6 @@
+framework module PKTutorialViewController {
+  umbrella header "PKTutorialViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}

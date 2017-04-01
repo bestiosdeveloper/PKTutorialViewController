@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PKTutorialViewController_Example' do
+  pod 'PKTutorialViewController', :path => '../'
+
+  target 'PKTutorialViewController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

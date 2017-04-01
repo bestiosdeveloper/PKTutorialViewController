@@ -1,0 +1,6 @@
+framework module Pods_PKTutorialViewController_Example {
+  umbrella header "Pods-PKTutorialViewController_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
